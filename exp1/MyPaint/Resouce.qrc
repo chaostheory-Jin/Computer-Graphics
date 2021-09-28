@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/line.png</file>
+        <file>images/lines.png</file>
+        <file>images/open.png</file>
+        <file>images/rect.png</file>
+        <file>images/Resouce.qrc</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/texts.png</file>
+        <file>images/点画线.png</file>
+        <file>images/红色.png</file>
+        <file>images/蓝色.png</file>
+        <file>images/绿色.png</file>
+        <file>images/双点画线.png</file>
+        <file>images/线宽3.png</file>
+        <file>images/线宽5.png</file>
+        <file>images/线宽7.png</file>
+        <file>images/中点.png</file>
+        <file>images/1.png</file>
+        <file>images/bresenham.png</file>
+        <file>images/dda.png</file>
+        <file>images/ellipse.png</file>
+    </qresource>
+</RCC>
